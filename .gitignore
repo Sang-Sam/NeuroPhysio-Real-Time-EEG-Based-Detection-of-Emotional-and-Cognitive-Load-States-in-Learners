@@ -1,0 +1,13 @@
+EDF/
+__pycache__/
+template/
+*.csv
+*.pkl
+*.h5
+*.npy
+excel annotations/
+Slider/
+prediction.py
+preprocess.py
+Augment.py
+website/
